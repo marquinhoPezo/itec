@@ -81,7 +81,7 @@
 			<blockquote>Mensaje numero dos</blockquote>
 		</aside>
 		<footer id="pie">
-			&copy;  
+			&copy; Marquinho Pezo Ruiz 
 		</footer>
 	</div>
 </body>

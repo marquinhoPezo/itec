@@ -20,3 +20,59 @@ h2{
 	margin:15px auto;
 	text-align: left;
 }
+#cabecera{
+	background: #fffbb9;
+	border:1px solid #999;
+	padding: 20px;
+}
+#menu{
+	background: #ccc;
+	padding: 5px 15px;
+	/*padding: superior  inferior ; */
+	
+}
+#menu li{
+	display: inline-block;
+	list-style: none;
+	padding: 5px;
+	font: bold 14px verdana,sans-serif;
+}
+#seccion{
+	
+	width: 70%;
+	margin:20px;
+	float: left;
+
+}
+#columna{
+	
+	width: 20%;
+	margin: 20px 0px;
+	float: left;
+	padding: 20px;
+	background: #ccc;
+}
+#pie{
+	clear: both;/* Para restablecer las consecuencias del float:left de su anterior bloque(en este caso el id #columna)*/
+	background: #ccc;
+	text-align: center;
+	padding: 20px;
+	border-top: 2px solid #999;
+}
+article{
+	background: #fffbcc;
+	border:1px solid #ccc;
+	padding: 20px;
+	margin-bottom: 15px;
+}
+
+article footer{
+	text-align: right;
+}
+time{
+	color: #999;
+}
+
+figcaption{
+font:italic 14px verdana, sans-serif;
+}
