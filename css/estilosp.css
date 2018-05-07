@@ -1,0 +1,29 @@
+body{
+	text-align: center;
+}
+#principal{
+	display: block;
+	width: 500px;
+	margin: 50px auto;
+	padding: 15px;
+	text-align: center;
+	border:1px solid #999;
+	background: #ddd;
+
+	-moz-border-radius:20px;
+	-webkit-border-radius: 20px;
+}
+#titulo{
+	font:bold 36px "alex_brushregular", verdana,sans-serif; 
+	text-shadow: rgb(0,0,150) 3px 3px 5px;
+	text-shadow: rgb(0,0,150) 3px 3px 5px; 
+}
+
+@font-face {
+    font-family: 'alex_brushregular';
+    src: url('alexbrush-regular-webfont.woff2') format('woff2'),
+         url('alexbrush-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
