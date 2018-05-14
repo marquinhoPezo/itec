@@ -7,7 +7,7 @@
 </head>
 <body>
 	<header id="principal">
-		<span id="titulo">Plantillas con  Estilos CSS3</span>
+		<span id="titulo">Plantillas con  Estilos CSS3 - </span>
 	</header>
 </body>
 </html>
