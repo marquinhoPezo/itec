@@ -9,8 +9,10 @@
 		}
 		function hacerclic(){
 			document.getElementsByTagName('input')[0].onclick = mostraralerta;
+			/* ESTO ES UN ARREGLO*/
 		}
 		window.onload = hacerclic;
+		/* QUE PRIMERO TIENE QUE CARGAR TODA LA PAGINA PARA QUE SE EJECUTE LA funcion "hacerclic" */ 
 	</script>
 </head>
 <body>
