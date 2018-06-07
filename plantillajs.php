@@ -12,7 +12,7 @@
 			/* ESTO ES UN ARREGLO*/
 		}
 		window.onload = hacerclic;
-		/* QUE PRIMERO TIENE QUE CARGAR TODA LA PAGINA PARA QUE SE EJECUTE LA funcion "hacerclic" */ 
+		/*el evento window.onload QUE PRIMERO TIENE QUE CARGAR TODA LA PAGINA PARA QUE SE EJECUTE LA funcion "hacerclic" */ 
 	</script>
 </head>
 <body>
